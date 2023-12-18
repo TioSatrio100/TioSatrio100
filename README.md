@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Satrio Brahmantoro Adi Subagio</h1>
 <h3 align="center">A passionate student & programmer from Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://www.tumblr.com/ghibligif/644756900010999808?source=share">
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/gif/lofi-rooftop-study-night-chill-lqcvkej9ymld5zbv.html?embed=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiosatrio100&label=Profile%20views&color=0e75b6&style=flat" alt="tiosatrio100" /> </p>
 
