@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Freelancer in Upwork**
 
-- 🌱 I’m currently learning **ReactJS,VueJS,NextJS, Flutter, Machine Learning**
+- 🌱 I’m currently learning **ReactJS, VueJS, NextJS, Flutter, & Machine Learning**
 
-- 💬 Ask me about **react, vue**
+- 💬 Ask me about **react, vue, & machine learning**
 
 - 📫 How to reach me **satriobrahmantoroadisubagio@gmail.com**
 
