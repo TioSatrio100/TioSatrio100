@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **Freelancer in Upwork**
 
-- 🌱 I’m currently learning **ReactJS,VueJS, Flutter, Machine Learning**
+- 🌱 I’m currently learning **ReactJS,VueJS,NextJS, Flutter, Machine Learning**
 
 - 💬 Ask me about **react, vue**
 
 - 📫 How to reach me **satriobrahmantoroadisubagio@gmail.com**
 
-- ⚡ Fun fact **---**
+- ⚡ Fun fact **I love code like I love her**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
