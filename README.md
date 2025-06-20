@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on **Freelancer in Upwork**
 
-- 🌱 I’m currently learning **ReactJS, VueJS, NextJS, Flutter, & Machine Learning**
+- 🌱 I’m currently learning **ReactJS,Laravel, VueJS, NextJS, Flutter, & Machine Learning**
 
-- 💬 Ask me about **react, vue, & machine learning**
+- 💬 Ask me about **react, laravel, & machine learning**
 
 - 📫 How to reach me **satriobrahmantoroadisubagio@gmail.com**
 
