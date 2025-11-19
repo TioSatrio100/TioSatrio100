@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Satrio</h1>
-<h3 align="center">Just a lucky man from Indonesia and now studying at ITMO University in Russia.</h3>
+<h3 align="center">Just a lucky man from Indonesia and now studying at ITMO University in Russia</h3>
 <h3 align="center">Passionate Full-Stack Engineer with a love for Pokemon!</h3>
 
 <img width="1344" height="768" alt="Gemini_Generated_Image_c4dofhc4dofhc4do" src="https://github.com/user-attachments/assets/dd9f0738-4d0c-45c8-a858-95493c068cac" />
