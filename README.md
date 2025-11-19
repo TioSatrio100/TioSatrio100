@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Satrio</h1>
 <h3 align="center">Just a lucky man from Indonesia and now studying at ITMO University in Russia.</h3>
+<h3 align="center">Passionate Full-Stack Engineer with a love for Pokemon!</h3>
 
 ![backiee-286745-landscape](https://github.com/TioSatrio100/TioSatrio100/assets/88955341/0b3d5f70-918d-4502-9cd9-a5fc8a8487a9)
 
