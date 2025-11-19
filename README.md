@@ -3,7 +3,8 @@
 <h3 align="center">Just a lucky man from Indonesia and now studying at ITMO University in Russia.</h3>
 <h3 align="center">Passionate Full-Stack Engineer with a love for Pokemon!</h3>
 
-![backiee-286745-landscape](https://github.com/TioSatrio100/TioSatrio100/assets/88955341/0b3d5f70-918d-4502-9cd9-a5fc8a8487a9)
+<img width="1344" height="768" alt="Gemini_Generated_Image_c4dofhc4dofhc4do" src="https://github.com/user-attachments/assets/dd9f0738-4d0c-45c8-a858-95493c068cac" />
+
 
 <p> <img src="https://komarev.com/ghpvc/?username=tiosatrio100&label=Profile%20views&color=0e75b6&style=flat" alt="tiosatrio100" /> </p>
 
