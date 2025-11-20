@@ -6,9 +6,11 @@
 <img width="1344" height="768" alt="Gemini_Generated_Image_c4dofhc4dofhc4do" src="https://github.com/user-attachments/assets/dd9f0738-4d0c-45c8-a858-95493c068cac" />
 
 
-### **About Me** ###
+### **About Me** ###  
 
-- 🔭 I’m currently working on **Freelancer in Upwork**
+- **visit my portfolio website**  **https://riopotofolio.vercel.app/**
+  
+- 🔭 I’m currently working on **IELTSY-PLATFORMS LIKE DUOLINGO TO STUDY IELTS (Build In Public)**
 
 - 🌱 I’m currently learning **ReactJS,Laravel, VueJS, NextJS, Flutter, & Machine Learning**
 
