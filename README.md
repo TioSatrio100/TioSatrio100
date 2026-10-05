@@ -22,7 +22,7 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Jupyter Notebook · TypeScript · Python</p></td>
+<td width="33%" valign="top"><h3>Role fit</h3><p>AI Engineer and full-stack engineer · TypeScript · Python</p></td>
 <td width="33%" valign="top"><h3>Public proof</h3><p>44 repositories · 20 stars</p></td>
 <td width="33%" valign="top"><h3>Momentum</h3><p>118 contributions · 53 active days</p></td>
 </tr>
@@ -86,11 +86,10 @@
 
 <table width="100%">
 <tr>
-<td width="20%" align="center"><strong>Jupyter Notebook</strong><br /><sub>92% of public code</sub></td>
 <td width="20%" align="center"><strong>TypeScript</strong><br /><sub>4% of public code</sub></td>
 <td width="20%" align="center"><strong>Python</strong><br /><sub>2% of public code</sub></td>
 <td width="20%" align="center"><strong>JavaScript</strong><br /><sub>1% of public code</sub></td>
-<td width="20%" align="center"><strong>CSS</strong><br /><sub>1% of public code</sub></td>
+<td width="20%" align="center"><strong>Go</strong><br /><sub>1% of public code</sub></td>
 </tr>
 </table>
 
@@ -111,5 +110,3 @@
 <td width="38%" valign="middle" align="right"><a href="https://github.com/tiosatrio100">GitHub</a><br /><a href="https://riopotofolio.vercel.app/">Website</a></td>
 </tr>
 </table>
-
-<p align="center"><sub>Satrio Brahmantoro Adi Subagio · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
